@@ -17,3 +17,7 @@ Builds the nextjs app
 ### `npx cap sync`
 
 Updates the android files
+
+### `npx cap open android`
+
+Opens the android project
